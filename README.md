@@ -24,6 +24,13 @@ make
 sudo make install
 ```
 
+## Uninstall
+
+```shell
+rm /usr/bin/cutefish-screenshot
+rm /usr/share/applications/cutefish-screenshot.desktop
+```
+
 ## License
 
 This project has been licensed by GPLv3.
